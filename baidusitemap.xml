@@ -4,6 +4,100 @@
 
     
   <url>
+    <loc>https://www.yexiaochen.com/Array%E5%8E%9F%E5%9E%8B%E4%B9%8B%E9%9D%9E%E5%8F%98%E5%BC%82%E6%96%B9%E6%B3%95/</loc>
+    <lastmod>2018-11-26T15:09:43.486Z</lastmod>
+    <data>
+        <display>
+        <title>Array原型之非变异方法</title>
+        <pubTime>2018-11-08T14:48:52.000Z</pubTime>
+        
+        <tag>Array</tag>
+         
+        <tag>数组原型</tag>
+         
+        <tag>非变异方法</tag>
+         
+         
+           
+             
+              <breadCrumb title="数组总结" url="https://www.yexiaochen.com/categories/%E6%95%B0%E7%BB%84%E6%80%BB%E7%BB%93/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.yexiaochen.com/Array%E5%8E%9F%E5%9E%8B%E4%B9%8B%E8%BF%AD%E4%BB%A3%E6%96%B9%E6%B3%95/</loc>
+    <lastmod>2018-11-26T15:09:27.353Z</lastmod>
+    <data>
+        <display>
+        <title>Array原型之迭代方法</title>
+        <pubTime>2018-11-08T14:51:57.000Z</pubTime>
+        
+        <tag>Array</tag>
+         
+        <tag>数组原型</tag>
+         
+        <tag>迭代方法</tag>
+         
+         
+           
+             
+              <breadCrumb title="数组总结" url="https://www.yexiaochen.com/categories/%E6%95%B0%E7%BB%84%E6%80%BB%E7%BB%93/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.yexiaochen.com/Array%E5%8E%9F%E5%9E%8B%E4%B9%8B%E5%8F%98%E5%BC%82%E6%96%B9%E6%B3%95/</loc>
+    <lastmod>2018-11-26T15:09:16.798Z</lastmod>
+    <data>
+        <display>
+        <title>Array原型之变异方法</title>
+        <pubTime>2018-11-08T14:45:31.000Z</pubTime>
+        
+        <tag>Array</tag>
+         
+        <tag>数组原型</tag>
+         
+        <tag>变异方法</tag>
+         
+         
+           
+             
+              <breadCrumb title="数组总结" url="https://www.yexiaochen.com/categories/%E6%95%B0%E7%BB%84%E6%80%BB%E7%BB%93/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.yexiaochen.com/Array%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0/</loc>
+    <lastmod>2018-11-26T15:08:41.628Z</lastmod>
+    <data>
+        <display>
+        <title>Array构造函数</title>
+        <pubTime>2018-11-08T14:41:04.000Z</pubTime>
+        
+        <tag>Array</tag>
+         
+        <tag>构造函数</tag>
+         
+         
+           
+             
+              <breadCrumb title="数组总结" url="https://www.yexiaochen.com/categories/%E6%95%B0%E7%BB%84%E6%80%BB%E7%BB%93/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://www.yexiaochen.com/VS-Code%E4%BD%BF%E7%94%A8%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2018-11-26T13:57:44.355Z</lastmod>
     <data>
@@ -139,100 +233,6 @@
            
              
               <breadCrumb title="博客搭建" url="https://www.yexiaochen.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://www.yexiaochen.com/Array%E5%AE%9E%E4%BE%8B%E4%B9%8B%E8%BF%AD%E4%BB%A3%E6%96%B9%E6%B3%95/</loc>
-    <lastmod>2018-11-17T03:45:42.526Z</lastmod>
-    <data>
-        <display>
-        <title>Array实例之迭代方法</title>
-        <pubTime>2018-11-08T14:51:57.000Z</pubTime>
-        
-        <tag>Array</tag>
-         
-        <tag>数组实例</tag>
-         
-        <tag>迭代方法</tag>
-         
-         
-           
-             
-              <breadCrumb title="数组总结" url="https://www.yexiaochen.com/categories/%E6%95%B0%E7%BB%84%E6%80%BB%E7%BB%93/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://www.yexiaochen.com/Array%E5%AE%9E%E4%BE%8B%E4%B9%8B%E9%9D%9E%E5%8F%98%E5%BC%82%E6%96%B9%E6%B3%95/</loc>
-    <lastmod>2018-11-17T03:43:36.680Z</lastmod>
-    <data>
-        <display>
-        <title>Array实例之非变异方法</title>
-        <pubTime>2018-11-08T14:48:52.000Z</pubTime>
-        
-        <tag>Array</tag>
-         
-        <tag>数组实例</tag>
-         
-        <tag>非变异方法</tag>
-         
-         
-           
-             
-              <breadCrumb title="数组总结" url="https://www.yexiaochen.com/categories/%E6%95%B0%E7%BB%84%E6%80%BB%E7%BB%93/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://www.yexiaochen.com/Array%E5%AE%9E%E4%BE%8B%E4%B9%8B%E5%8F%98%E5%BC%82%E6%96%B9%E6%B3%95/</loc>
-    <lastmod>2018-11-17T03:18:52.563Z</lastmod>
-    <data>
-        <display>
-        <title>Array实例之变异方法</title>
-        <pubTime>2018-11-08T14:45:31.000Z</pubTime>
-        
-        <tag>Array</tag>
-         
-        <tag>数组实例</tag>
-         
-        <tag>变异方法</tag>
-         
-         
-           
-             
-              <breadCrumb title="数组总结" url="https://www.yexiaochen.com/categories/%E6%95%B0%E7%BB%84%E6%80%BB%E7%BB%93/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://www.yexiaochen.com/Array%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0/</loc>
-    <lastmod>2018-11-17T02:50:21.875Z</lastmod>
-    <data>
-        <display>
-        <title>Array构造函数</title>
-        <pubTime>2018-11-08T14:41:04.000Z</pubTime>
-        
-        <tag>Array</tag>
-         
-        <tag>构造函数</tag>
-         
-         
-           
-             
-              <breadCrumb title="数组总结" url="https://www.yexiaochen.com/categories/%E6%95%B0%E7%BB%84%E6%80%BB%E7%BB%93/"/>
           
         </display>
     </data>
