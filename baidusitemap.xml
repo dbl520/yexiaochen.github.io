@@ -4,6 +4,52 @@
 
     
   <url>
+    <loc>https://www.yexiaochen.com/String%E5%8E%9F%E5%9E%8B%E6%96%B9%E6%B3%95/</loc>
+    <lastmod>2018-12-02T13:44:33.636Z</lastmod>
+    <data>
+        <display>
+        <title>String原型方法</title>
+        <pubTime>2018-12-02T12:57:03.000Z</pubTime>
+        
+        <tag>String</tag>
+         
+        <tag>字符串原型</tag>
+         
+         
+           
+             
+              <breadCrumb title="字符串总结" url="https://www.yexiaochen.com/categories/%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%80%BB%E7%BB%93/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.yexiaochen.com/Array%E5%8E%9F%E5%9E%8B%E4%B9%8B%E8%BF%AD%E4%BB%A3%E6%96%B9%E6%B3%95/</loc>
+    <lastmod>2018-12-02T10:09:47.245Z</lastmod>
+    <data>
+        <display>
+        <title>Array原型之迭代方法</title>
+        <pubTime>2018-11-08T14:51:57.000Z</pubTime>
+        
+        <tag>Array</tag>
+         
+        <tag>数组原型</tag>
+         
+        <tag>迭代方法</tag>
+         
+         
+           
+             
+              <breadCrumb title="数组总结" url="https://www.yexiaochen.com/categories/%E6%95%B0%E7%BB%84%E6%80%BB%E7%BB%93/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://www.yexiaochen.com/Array%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0/</loc>
     <lastmod>2018-11-30T15:11:47.428Z</lastmod>
     <data>
@@ -60,30 +106,6 @@
         <tag>数组原型</tag>
          
         <tag>非变异方法</tag>
-         
-         
-           
-             
-              <breadCrumb title="数组总结" url="https://www.yexiaochen.com/categories/%E6%95%B0%E7%BB%84%E6%80%BB%E7%BB%93/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://www.yexiaochen.com/Array%E5%8E%9F%E5%9E%8B%E4%B9%8B%E8%BF%AD%E4%BB%A3%E6%96%B9%E6%B3%95/</loc>
-    <lastmod>2018-11-26T15:09:27.353Z</lastmod>
-    <data>
-        <display>
-        <title>Array原型之迭代方法</title>
-        <pubTime>2018-11-08T14:51:57.000Z</pubTime>
-        
-        <tag>Array</tag>
-         
-        <tag>数组原型</tag>
-         
-        <tag>迭代方法</tag>
          
          
            

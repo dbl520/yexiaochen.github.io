@@ -1,3 +1,4 @@
+https://www.yexiaochen.com/String原型方法/
 https://www.yexiaochen.com/VS-Code使用基础/
 https://www.yexiaochen.com/观察者模式再次进阶/
 https://www.yexiaochen.com/Mac终端改造/
@@ -7,4 +8,3 @@ https://www.yexiaochen.com/Array原型之迭代方法/
 https://www.yexiaochen.com/Array原型之非变异方法/
 https://www.yexiaochen.com/Array原型之变异方法/
 https://www.yexiaochen.com/Array构造函数/
-https://www.yexiaochen.com/浏览器缓存机制/
