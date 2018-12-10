@@ -1,3 +1,4 @@
+https://www.yexiaochen.com/为强制类型转换正名/
 https://www.yexiaochen.com/String原型方法/
 https://www.yexiaochen.com/VS-Code使用基础/
 https://www.yexiaochen.com/观察者模式再次进阶/
@@ -7,4 +8,3 @@ https://www.yexiaochen.com/从观察者模式说起/
 https://www.yexiaochen.com/Array原型之迭代方法/
 https://www.yexiaochen.com/Array原型之非变异方法/
 https://www.yexiaochen.com/Array原型之变异方法/
-https://www.yexiaochen.com/Array构造函数/
