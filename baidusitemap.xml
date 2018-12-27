@@ -4,8 +4,34 @@
 
     
   <url>
+    <loc>https://www.yexiaochen.com/%E8%AE%A9Python%E6%BC%AB%E6%AD%A5%E5%9C%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%8A/</loc>
+    <lastmod>2018-12-27T13:11:23.689Z</lastmod>
+    <data>
+        <display>
+        <title>让Python漫步在浏览器上</title>
+        <pubTime>2018-12-27T13:09:51.000Z</pubTime>
+        
+        <tag>File API</tag>
+         
+        <tag>FileReader</tag>
+         
+        <tag>Blob</tag>
+         
+        <tag>URL</tag>
+         
+         
+           
+             
+              <breadCrumb title="File API 总结" url="https://www.yexiaochen.com/categories/File-API-%E6%80%BB%E7%BB%93/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://www.yexiaochen.com/Function%E5%8E%9F%E5%9E%8B%E6%96%B9%E6%B3%95/</loc>
-    <lastmod>2018-12-22T04:08:08.755Z</lastmod>
+    <lastmod>2018-12-23T02:57:53.226Z</lastmod>
     <data>
         <display>
         <title>Function原型方法</title>
@@ -15,10 +41,108 @@
          
         <tag>Function原型</tag>
          
+        <tag>apply</tag>
+         
+        <tag>call</tag>
+         
+        <tag>bind</tag>
+         
          
            
              
               <breadCrumb title="Function总结" url="https://www.yexiaochen.com/categories/Function%E6%80%BB%E7%BB%93/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.yexiaochen.com/Github-Hexo-Next%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E4%B9%8Bgit%E5%92%8C%08GitHub/</loc>
+    <lastmod>2018-12-23T02:56:39.511Z</lastmod>
+    <data>
+        <display>
+        <title>Github+Hexo+Next博客搭建之git和GitHub</title>
+        <pubTime>2018-04-07T03:32:03.000Z</pubTime>
+        
+        <tag>git</tag>
+         
+        <tag>github</tag>
+         
+         
+           
+             
+              <breadCrumb title="博客搭建" url="https://www.yexiaochen.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.yexiaochen.com/Github-Hexo-Next%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E4%B9%8BHexo-Next%E5%8F%8A%E9%83%A8%E7%BD%B2/</loc>
+    <lastmod>2018-12-23T02:56:32.188Z</lastmod>
+    <data>
+        <display>
+        <title>Github+Hexo+Next博客搭建之Hexo,Next及部署</title>
+        <pubTime>2018-05-01T05:07:15.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+        <tag>Next</tag>
+         
+        <tag>coding</tag>
+         
+        <tag>部署</tag>
+         
+        <tag>DNS</tag>
+         
+         
+           
+             
+              <breadCrumb title="博客搭建" url="https://www.yexiaochen.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.yexiaochen.com/Github-Hexo-Next%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E4%B9%8BMarkdown/</loc>
+    <lastmod>2018-12-23T02:56:24.520Z</lastmod>
+    <data>
+        <display>
+        <title>Github+Hexo+Next博客搭建之Markdown</title>
+        <pubTime>2018-04-05T14:22:59.000Z</pubTime>
+        
+        <tag>Markdown</tag>
+         
+         
+           
+             
+              <breadCrumb title="博客搭建" url="https://www.yexiaochen.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.yexiaochen.com/%E5%BA%8F%E8%A8%80/</loc>
+    <lastmod>2018-12-23T02:56:14.720Z</lastmod>
+    <data>
+        <display>
+        <title>序言</title>
+        <pubTime>2018-03-29T00:21:15.000Z</pubTime>
+        
+        <tag>序言</tag>
+         
+        <tag>博客</tag>
+         
+         
+           
+             
+              <breadCrumb title="日志" url="https://www.yexiaochen.com/categories/%E6%97%A5%E5%BF%97/"/>
           
         </display>
     </data>
@@ -301,98 +425,6 @@
            
              
               <breadCrumb title="设计模式" url="https://www.yexiaochen.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://www.yexiaochen.com/Github-Hexo-Next%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E4%B9%8BHexo-Next%E5%8F%8A%E9%83%A8%E7%BD%B2/</loc>
-    <lastmod>2018-11-18T04:22:52.131Z</lastmod>
-    <data>
-        <display>
-        <title>Github+Hexo+Next博客搭建之Hexo,Next及部署</title>
-        <pubTime>2018-05-01T05:07:15.000Z</pubTime>
-        
-        <tag>Hexo</tag>
-         
-        <tag>Next</tag>
-         
-        <tag>coding</tag>
-         
-        <tag>部署</tag>
-         
-        <tag>DNS</tag>
-         
-         
-           
-             
-              <breadCrumb title="博客搭建" url="https://www.yexiaochen.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://www.yexiaochen.com/Github-Hexo-Next%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E4%B9%8BMarkdown/</loc>
-    <lastmod>2018-11-16T14:06:46.127Z</lastmod>
-    <data>
-        <display>
-        <title>Github+Hexo+Next博客搭建之Markdown</title>
-        <pubTime>2018-04-05T14:22:59.000Z</pubTime>
-        
-        <tag>Markdown</tag>
-         
-         
-           
-             
-              <breadCrumb title="博客搭建" url="https://www.yexiaochen.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://www.yexiaochen.com/%E5%BA%8F%E8%A8%80/</loc>
-    <lastmod>2018-11-12T14:25:16.790Z</lastmod>
-    <data>
-        <display>
-        <title>序言</title>
-        <pubTime>2018-03-29T00:21:15.000Z</pubTime>
-        
-        <tag>序言</tag>
-         
-        <tag>博客</tag>
-         
-         
-           
-             
-              <breadCrumb title="日志" url="https://www.yexiaochen.com/categories/%E6%97%A5%E5%BF%97/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://www.yexiaochen.com/Github-Hexo-Next%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E4%B9%8Bgit%E5%92%8C%08GitHub/</loc>
-    <lastmod>2018-11-12T14:24:56.001Z</lastmod>
-    <data>
-        <display>
-        <title>Github+Hexo+Next博客搭建之git和GitHub</title>
-        <pubTime>2018-04-07T03:32:03.000Z</pubTime>
-        
-        <tag>git</tag>
-         
-        <tag>github</tag>
-         
-         
-           
-             
-              <breadCrumb title="博客搭建" url="https://www.yexiaochen.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
           
         </display>
     </data>
