@@ -1,3 +1,4 @@
+https://www.yexiaochen.com/记不住的继承方式/
 https://www.yexiaochen.com/让Python漫步在浏览器上/
 https://www.yexiaochen.com/Function原型方法/
 https://www.yexiaochen.com/从Function入手原型链/
@@ -7,4 +8,3 @@ https://www.yexiaochen.com/VS-Code使用基础/
 https://www.yexiaochen.com/观察者模式再次进阶/
 https://www.yexiaochen.com/Mac终端改造/
 https://www.yexiaochen.com/进击的观察者模式/
-https://www.yexiaochen.com/从观察者模式说起/
