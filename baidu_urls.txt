@@ -1,5 +1,6 @@
 https://www.yexiaochen.com/对象属性的属性/
 https://www.yexiaochen.com/Object构造函数/
+https://www.yexiaochen.com/Object原型方法/
 https://www.yexiaochen.com/记不住的继承方式/
 https://www.yexiaochen.com/让Python漫步在浏览器上/
 https://www.yexiaochen.com/Function原型方法/
@@ -7,4 +8,3 @@ https://www.yexiaochen.com/从Function入手原型链/
 https://www.yexiaochen.com/为强制类型转换正名/
 https://www.yexiaochen.com/String原型方法/
 https://www.yexiaochen.com/VS-Code使用基础/
-https://www.yexiaochen.com/观察者模式再次进阶/
