@@ -1,3 +1,4 @@
+https://www.yexiaochen.com/从游戏角度说作用域/
 https://www.yexiaochen.com/Object原型方法/
 https://www.yexiaochen.com/对象属性的属性/
 https://www.yexiaochen.com/Object构造函数/
@@ -7,4 +8,3 @@ https://www.yexiaochen.com/Function原型方法/
 https://www.yexiaochen.com/从Function入手原型链/
 https://www.yexiaochen.com/为强制类型转换正名/
 https://www.yexiaochen.com/String原型方法/
-https://www.yexiaochen.com/VS-Code使用基础/
