@@ -5,14 +5,25 @@
     
   <url>
     <loc>https://www.yexiaochen.com/%E4%BB%8E%E6%B8%B8%E6%88%8F%E8%A7%92%E5%BA%A6%E8%AF%B4%E4%BD%9C%E7%94%A8%E5%9F%9F/</loc>
-    <lastmod>2019-01-13T10:18:45.735Z</lastmod>
+    <lastmod>2019-01-14T15:46:08.499Z</lastmod>
     <data>
         <display>
         <title>从游戏角度说作用域</title>
         <pubTime>2019-01-13T06:13:17.000Z</pubTime>
         
+        <tag>作用域</tag>
+         
+        <tag>闭包</tag>
+         
+        <tag>this</tag>
+         
+        <tag>内存泄漏</tag>
+         
          
            
+             
+              <breadCrumb title="很难么" url="https://www.yexiaochen.com/categories/%E5%BE%88%E9%9A%BE%E4%B9%88/"/>
+          
         </display>
     </data>
     </url>
