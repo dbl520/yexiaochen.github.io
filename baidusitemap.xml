@@ -4,15 +4,46 @@
 
     
   <url>
+    <loc>https://www.yexiaochen.com/%E7%99%BD%E8%AF%9DMVC-MVP-MVVM/</loc>
+    <lastmod>2019-02-05T10:10:27.372Z</lastmod>
+    <data>
+        <display>
+        <title>白话MVC/MVP/MVVM</title>
+        <pubTime>2019-02-05T10:03:01.000Z</pubTime>
+        
+        <tag>MVC</tag>
+         
+        <tag>MVP</tag>
+         
+        <tag>MVVM</tag>
+         
+        <tag>MV*</tag>
+         
+         
+           
+             
+              <breadCrumb title="这个想法不一定对" url="https://www.yexiaochen.com/categories/%E8%BF%99%E4%B8%AA%E6%83%B3%E6%B3%95%E4%B8%8D%E4%B8%80%E5%AE%9A%E5%AF%B9/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://www.yexiaochen.com/%E5%9C%A8JavaScript%E4%B8%AD%E5%B0%9D%E8%AF%95%E7%BB%84%E5%90%88%E6%A8%A1%E5%BC%8F/</loc>
-    <lastmod>2019-01-31T16:08:26.176Z</lastmod>
+    <lastmod>2019-01-31T16:17:04.633Z</lastmod>
     <data>
         <display>
         <title>在JavaScript中尝试组合模式</title>
         <pubTime>2019-01-31T12:12:14.000Z</pubTime>
         
+        <tag>组合模式</tag>
+         
          
            
+             
+              <breadCrumb title="设计模式" url="https://www.yexiaochen.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
         </display>
     </data>
     </url>

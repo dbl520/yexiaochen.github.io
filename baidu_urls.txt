@@ -1,3 +1,4 @@
+https://www.yexiaochen.com/白话MVC-MVP-MVVM/
 https://www.yexiaochen.com/在JavaScript中尝试组合模式/
 https://www.yexiaochen.com/咬文嚼字说策略/
 https://www.yexiaochen.com/初始化空对象数组/
@@ -7,4 +8,3 @@ https://www.yexiaochen.com/对象属性的属性/
 https://www.yexiaochen.com/Object构造函数/
 https://www.yexiaochen.com/记不住的继承方式/
 https://www.yexiaochen.com/让Python漫步在浏览器上/
-https://www.yexiaochen.com/Function原型方法/
