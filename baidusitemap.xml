@@ -4,8 +4,34 @@
 
     
   <url>
+    <loc>https://www.yexiaochen.com/%E5%BC%82%E6%AD%A5%E7%9A%84JavaScript/</loc>
+    <lastmod>2019-02-16T19:43:31.735Z</lastmod>
+    <data>
+        <display>
+        <title>异步的JavaScript</title>
+        <pubTime>2019-02-16T15:13:26.000Z</pubTime>
+        
+        <tag>异步</tag>
+         
+        <tag>事件循环</tag>
+         
+        <tag>任务队列</tag>
+         
+        <tag>回调</tag>
+         
+         
+           
+             
+              <breadCrumb title="很难么" url="https://www.yexiaochen.com/categories/%E5%BE%88%E9%9A%BE%E4%B9%88/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://www.yexiaochen.com/%E5%85%B3%E4%BA%8EMVC%E6%A8%A1%E5%BC%8F%E7%AE%80%E5%8D%95%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0/</loc>
-    <lastmod>2019-02-06T12:52:16.938Z</lastmod>
+    <lastmod>2019-02-06T13:27:08.216Z</lastmod>
     <data>
         <display>
         <title>关于MVC模式简单代码实现</title>

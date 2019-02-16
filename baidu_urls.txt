@@ -1,3 +1,4 @@
+https://www.yexiaochen.com/异步的JavaScript/
 https://www.yexiaochen.com/关于MVC模式简单代码实现/
 https://www.yexiaochen.com/白话MVC-MVP-MVVM/
 https://www.yexiaochen.com/在JavaScript中尝试组合模式/
@@ -7,4 +8,3 @@ https://www.yexiaochen.com/从游戏角度说作用域/
 https://www.yexiaochen.com/Object原型方法/
 https://www.yexiaochen.com/对象属性的属性/
 https://www.yexiaochen.com/Object构造函数/
-https://www.yexiaochen.com/记不住的继承方式/
