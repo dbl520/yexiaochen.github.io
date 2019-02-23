@@ -1,3 +1,4 @@
+https://www.yexiaochen.com/前端笔试之手写代码/
 https://www.yexiaochen.com/异步的JavaScript/
 https://www.yexiaochen.com/关于MVC模式简单代码实现/
 https://www.yexiaochen.com/白话MVC-MVP-MVVM/
@@ -7,4 +8,3 @@ https://www.yexiaochen.com/初始化空对象数组/
 https://www.yexiaochen.com/从游戏角度说作用域/
 https://www.yexiaochen.com/Object原型方法/
 https://www.yexiaochen.com/对象属性的属性/
-https://www.yexiaochen.com/Object构造函数/
