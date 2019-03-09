@@ -5,7 +5,7 @@
     
   <url>
     <loc>https://www.yexiaochen.com/%E7%94%A8DevTools%E6%8F%90%E9%AB%98%E4%BD%A0%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%95%88%E7%8E%87/</loc>
-    <lastmod>2019-03-09T12:56:49.031Z</lastmod>
+    <lastmod>2019-03-09T13:27:15.933Z</lastmod>
     <data>
         <display>
         <title>用DevTools提高你的工作效率</title>
@@ -129,11 +129,11 @@
         
         <tag>观察者模式</tag>
          
+        <tag>MVC</tag>
+         
         <tag>策略模式</tag>
          
         <tag>组合模式</tag>
-         
-        <tag>MVC</tag>
          
          
            
@@ -309,9 +309,9 @@
         <title>对象属性的属性</title>
         <pubTime>2019-01-05T14:53:15.000Z</pubTime>
         
-        <tag>属性描述符</tag>
-         
         <tag>Object.defineProperty</tag>
+         
+        <tag>属性描述符</tag>
          
          
            
