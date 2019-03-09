@@ -1,3 +1,4 @@
+https://www.yexiaochen.com/用DevTools提高你的工作效率/
 https://www.yexiaochen.com/异步的JavaScript——Promise篇/
 https://www.yexiaochen.com/前端笔试之手写代码/
 https://www.yexiaochen.com/异步的JavaScript/
@@ -7,4 +8,3 @@ https://www.yexiaochen.com/在JavaScript中尝试组合模式/
 https://www.yexiaochen.com/咬文嚼字说策略/
 https://www.yexiaochen.com/初始化空对象数组/
 https://www.yexiaochen.com/从游戏角度说作用域/
-https://www.yexiaochen.com/Object原型方法/
