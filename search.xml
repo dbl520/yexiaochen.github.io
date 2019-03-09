@@ -59,9 +59,9 @@
       </categories>
       <tags>
         <tag>观察者模式</tag>
-        <tag>MVC</tag>
         <tag>策略模式</tag>
         <tag>组合模式</tag>
+        <tag>MVC</tag>
       </tags>
   </entry>
   <entry>
@@ -145,8 +145,8 @@
         <category>属性描述符总结</category>
       </categories>
       <tags>
-        <tag>Object.defineProperty</tag>
         <tag>属性描述符</tag>
+        <tag>Object.defineProperty</tag>
       </tags>
   </entry>
   <entry>
