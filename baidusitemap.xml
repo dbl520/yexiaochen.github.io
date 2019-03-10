@@ -5,7 +5,7 @@
     
   <url>
     <loc>https://www.yexiaochen.com/%E7%94%A8DevTools%E6%8F%90%E9%AB%98%E4%BD%A0%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%95%88%E7%8E%87/</loc>
-    <lastmod>2019-03-09T13:27:15.933Z</lastmod>
+    <lastmod>2019-03-10T03:56:56.140Z</lastmod>
     <data>
         <display>
         <title>用DevTools提高你的工作效率</title>
@@ -127,13 +127,13 @@
         <title>关于MVC模式简单代码实现</title>
         <pubTime>2019-02-06T03:40:56.000Z</pubTime>
         
-        <tag>观察者模式</tag>
-         
         <tag>MVC</tag>
          
         <tag>策略模式</tag>
          
         <tag>组合模式</tag>
+         
+        <tag>观察者模式</tag>
          
          
            
