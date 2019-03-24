@@ -5,7 +5,7 @@
     
   <url>
     <loc>https://www.yexiaochen.com/JaVaScript%E4%B8%AD%E7%9A%84%E6%A8%A1%E5%9D%97/</loc>
-    <lastmod>2019-03-24T13:23:15.479Z</lastmod>
+    <lastmod>2019-03-24T13:37:48.086Z</lastmod>
     <data>
         <display>
         <title>JaVaScript中的模块</title>
@@ -14,8 +14,6 @@
         <tag>模块化</tag>
          
         <tag>闭包</tag>
-         
-        <tag>模块</tag>
          
          
            
@@ -28,11 +26,247 @@
 
     
   <url>
-    <loc>https://www.yexiaochen.com/%E5%BC%82%E6%AD%A5%E7%9A%84JavaScript%EF%BC%88%E7%BB%88%E7%AF%87%EF%BC%89/</loc>
-    <lastmod>2019-03-23T11:07:37.101Z</lastmod>
+    <loc>https://www.yexiaochen.com/%E8%AE%A9Python%E6%BC%AB%E6%AD%A5%E5%9C%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%8A/</loc>
+    <lastmod>2019-03-24T13:36:33.101Z</lastmod>
     <data>
         <display>
-        <title>异步的JavaScript（终篇）</title>
+        <title>让Python漫步在浏览器上</title>
+        <pubTime>2018-12-27T13:09:51.000Z</pubTime>
+        
+        <tag>File API</tag>
+         
+        <tag>FileReader</tag>
+         
+        <tag>Blob</tag>
+         
+        <tag>URL</tag>
+         
+         
+           
+             
+              <breadCrumb title="API总结" url="https://www.yexiaochen.com/categories/API%E6%80%BB%E7%BB%93/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.yexiaochen.com/String%E5%8E%9F%E5%9E%8B%E6%96%B9%E6%B3%95/</loc>
+    <lastmod>2019-03-24T13:35:45.383Z</lastmod>
+    <data>
+        <display>
+        <title>String原型方法</title>
+        <pubTime>2018-12-02T12:57:03.000Z</pubTime>
+        
+        <tag>String</tag>
+         
+        <tag>字符串原型</tag>
+         
+         
+           
+             
+              <breadCrumb title="API总结" url="https://www.yexiaochen.com/categories/API%E6%80%BB%E7%BB%93/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.yexiaochen.com/Object%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0/</loc>
+    <lastmod>2019-03-24T13:35:37.137Z</lastmod>
+    <data>
+        <display>
+        <title>Object构造函数</title>
+        <pubTime>2019-01-05T09:40:50.000Z</pubTime>
+        
+        <tag>构造函数</tag>
+         
+        <tag>Object</tag>
+         
+         
+           
+             
+              <breadCrumb title="API总结" url="https://www.yexiaochen.com/categories/API%E6%80%BB%E7%BB%93/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.yexiaochen.com/Object%E5%8E%9F%E5%9E%8B%E6%96%B9%E6%B3%95/</loc>
+    <lastmod>2019-03-24T13:35:28.511Z</lastmod>
+    <data>
+        <display>
+        <title>Object原型方法</title>
+        <pubTime>2019-01-06T09:40:50.000Z</pubTime>
+        
+        <tag>Object</tag>
+         
+        <tag>对象原型</tag>
+         
+         
+           
+             
+              <breadCrumb title="API总结" url="https://www.yexiaochen.com/categories/API%E6%80%BB%E7%BB%93/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.yexiaochen.com/Function%E5%8E%9F%E5%9E%8B%E6%96%B9%E6%B3%95/</loc>
+    <lastmod>2019-03-24T13:35:15.346Z</lastmod>
+    <data>
+        <display>
+        <title>Function原型方法</title>
+        <pubTime>2018-12-22T04:07:08.000Z</pubTime>
+        
+        <tag>Function</tag>
+         
+        <tag>Function原型</tag>
+         
+        <tag>apply</tag>
+         
+        <tag>call</tag>
+         
+        <tag>bind</tag>
+         
+         
+           
+             
+              <breadCrumb title="API总结" url="https://www.yexiaochen.com/categories/API%E6%80%BB%E7%BB%93/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.yexiaochen.com/Array%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0/</loc>
+    <lastmod>2019-03-24T13:34:55.953Z</lastmod>
+    <data>
+        <display>
+        <title>Array构造函数</title>
+        <pubTime>2018-11-08T14:41:04.000Z</pubTime>
+        
+        <tag>Array</tag>
+         
+        <tag>构造函数</tag>
+         
+         
+           
+             
+              <breadCrumb title="API总结" url="https://www.yexiaochen.com/categories/API%E6%80%BB%E7%BB%93/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.yexiaochen.com/Array%E5%8E%9F%E5%9E%8B%E4%B9%8B%E9%9D%9E%E5%8F%98%E5%BC%82%E6%96%B9%E6%B3%95/</loc>
+    <lastmod>2019-03-24T13:34:43.451Z</lastmod>
+    <data>
+        <display>
+        <title>Array原型之非变异方法</title>
+        <pubTime>2018-11-08T14:48:52.000Z</pubTime>
+        
+        <tag>Array</tag>
+         
+        <tag>数组原型</tag>
+         
+        <tag>非变异方法</tag>
+         
+         
+           
+             
+              <breadCrumb title="API总结" url="https://www.yexiaochen.com/categories/API%E6%80%BB%E7%BB%93/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.yexiaochen.com/Array%E5%8E%9F%E5%9E%8B%E4%B9%8B%E8%BF%AD%E4%BB%A3%E6%96%B9%E6%B3%95/</loc>
+    <lastmod>2019-03-24T13:34:34.086Z</lastmod>
+    <data>
+        <display>
+        <title>Array原型之迭代方法</title>
+        <pubTime>2018-11-08T14:51:57.000Z</pubTime>
+        
+        <tag>Array</tag>
+         
+        <tag>数组原型</tag>
+         
+        <tag>迭代方法</tag>
+         
+         
+           
+             
+              <breadCrumb title="API总结" url="https://www.yexiaochen.com/categories/API%E6%80%BB%E7%BB%93/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.yexiaochen.com/Array%E5%8E%9F%E5%9E%8B%E4%B9%8B%E5%8F%98%E5%BC%82%E6%96%B9%E6%B3%95/</loc>
+    <lastmod>2019-03-24T13:34:20.960Z</lastmod>
+    <data>
+        <display>
+        <title>Array原型之变异方法</title>
+        <pubTime>2018-11-08T14:45:31.000Z</pubTime>
+        
+        <tag>Array</tag>
+         
+        <tag>数组原型</tag>
+         
+        <tag>变异方法</tag>
+         
+         
+           
+             
+              <breadCrumb title="API总结" url="https://www.yexiaochen.com/categories/API%E6%80%BB%E7%BB%93/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.yexiaochen.com/%E5%AF%B9%E8%B1%A1%E5%B1%9E%E6%80%A7%E7%9A%84%E5%B1%9E%E6%80%A7/</loc>
+    <lastmod>2019-03-24T13:34:10.967Z</lastmod>
+    <data>
+        <display>
+        <title>对象属性的属性</title>
+        <pubTime>2019-01-05T14:53:15.000Z</pubTime>
+        
+        <tag>属性描述符</tag>
+         
+        <tag>defineProperty</tag>
+         
+         
+           
+             
+              <breadCrumb title="API总结" url="https://www.yexiaochen.com/categories/API%E6%80%BB%E7%BB%93/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.yexiaochen.com/%E5%BC%82%E6%AD%A5%E7%9A%84JavaScript%EF%BC%88%E7%BB%88%E7%AF%87%EF%BC%89/</loc>
+    <lastmod>2019-03-24T13:30:40.431Z</lastmod>
+    <data>
+        <display>
+        <title>异步的JavaScript（生成器篇）</title>
         <pubTime>2019-03-21T14:45:53.000Z</pubTime>
         
         <tag>异步</tag>
@@ -328,100 +562,6 @@
 
     
   <url>
-    <loc>https://www.yexiaochen.com/Object%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0/</loc>
-    <lastmod>2019-01-12T11:17:08.218Z</lastmod>
-    <data>
-        <display>
-        <title>Object构造函数</title>
-        <pubTime>2019-01-05T09:40:50.000Z</pubTime>
-        
-        <tag>构造函数</tag>
-         
-        <tag>Object</tag>
-         
-         
-           
-             
-              <breadCrumb title="对象总结" url="https://www.yexiaochen.com/categories/%E5%AF%B9%E8%B1%A1%E6%80%BB%E7%BB%93/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://www.yexiaochen.com/Object%E5%8E%9F%E5%9E%8B%E6%96%B9%E6%B3%95/</loc>
-    <lastmod>2019-01-07T12:54:09.718Z</lastmod>
-    <data>
-        <display>
-        <title>Object原型方法</title>
-        <pubTime>2019-01-06T09:40:50.000Z</pubTime>
-        
-        <tag>Object</tag>
-         
-        <tag>对象原型</tag>
-         
-         
-           
-             
-              <breadCrumb title="对象总结" url="https://www.yexiaochen.com/categories/%E5%AF%B9%E8%B1%A1%E6%80%BB%E7%BB%93/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://www.yexiaochen.com/%E5%AF%B9%E8%B1%A1%E5%B1%9E%E6%80%A7%E7%9A%84%E5%B1%9E%E6%80%A7/</loc>
-    <lastmod>2019-01-05T14:54:50.477Z</lastmod>
-    <data>
-        <display>
-        <title>对象属性的属性</title>
-        <pubTime>2019-01-05T14:53:15.000Z</pubTime>
-        
-        <tag>Object.defineProperty</tag>
-         
-        <tag>属性描述符</tag>
-         
-         
-           
-             
-              <breadCrumb title="属性描述符总结" url="https://www.yexiaochen.com/categories/%E5%B1%9E%E6%80%A7%E6%8F%8F%E8%BF%B0%E7%AC%A6%E6%80%BB%E7%BB%93/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://www.yexiaochen.com/Function%E5%8E%9F%E5%9E%8B%E6%96%B9%E6%B3%95/</loc>
-    <lastmod>2019-01-05T04:40:44.784Z</lastmod>
-    <data>
-        <display>
-        <title>Function原型方法</title>
-        <pubTime>2018-12-22T04:07:08.000Z</pubTime>
-        
-        <tag>Function</tag>
-         
-        <tag>Function原型</tag>
-         
-        <tag>apply</tag>
-         
-        <tag>call</tag>
-         
-        <tag>bind</tag>
-         
-         
-           
-             
-              <breadCrumb title="Function总结" url="https://www.yexiaochen.com/categories/Function%E6%80%BB%E7%BB%93/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://www.yexiaochen.com/%E4%B8%BA%E5%BC%BA%E5%88%B6%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2%E6%AD%A3%E5%90%8D/</loc>
     <lastmod>2019-01-05T01:51:09.257Z</lastmod>
     <data>
@@ -457,32 +597,6 @@
            
              
               <breadCrumb title="很难么" url="https://www.yexiaochen.com/categories/%E5%BE%88%E9%9A%BE%E4%B9%88/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://www.yexiaochen.com/%E8%AE%A9Python%E6%BC%AB%E6%AD%A5%E5%9C%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%8A/</loc>
-    <lastmod>2018-12-27T15:30:26.812Z</lastmod>
-    <data>
-        <display>
-        <title>让Python漫步在浏览器上</title>
-        <pubTime>2018-12-27T13:09:51.000Z</pubTime>
-        
-        <tag>File API</tag>
-         
-        <tag>FileReader</tag>
-         
-        <tag>Blob</tag>
-         
-        <tag>URL</tag>
-         
-         
-           
-             
-              <breadCrumb title="File API 总结" url="https://www.yexiaochen.com/categories/File-API-%E6%80%BB%E7%BB%93/"/>
           
         </display>
     </data>
@@ -612,28 +726,6 @@
 
     
   <url>
-    <loc>https://www.yexiaochen.com/String%E5%8E%9F%E5%9E%8B%E6%96%B9%E6%B3%95/</loc>
-    <lastmod>2018-12-06T14:31:50.796Z</lastmod>
-    <data>
-        <display>
-        <title>String原型方法</title>
-        <pubTime>2018-12-02T12:57:03.000Z</pubTime>
-        
-        <tag>String</tag>
-         
-        <tag>字符串原型</tag>
-         
-         
-           
-             
-              <breadCrumb title="字符串总结" url="https://www.yexiaochen.com/categories/%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%80%BB%E7%BB%93/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://www.yexiaochen.com/Mac%E7%BB%88%E7%AB%AF%E6%94%B9%E9%80%A0/</loc>
     <lastmod>2018-12-03T14:41:41.365Z</lastmod>
     <data>
@@ -653,100 +745,6 @@
            
              
               <breadCrumb title="善事利器" url="https://www.yexiaochen.com/categories/%E5%96%84%E4%BA%8B%E5%88%A9%E5%99%A8/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://www.yexiaochen.com/Array%E5%8E%9F%E5%9E%8B%E4%B9%8B%E5%8F%98%E5%BC%82%E6%96%B9%E6%B3%95/</loc>
-    <lastmod>2018-12-03T14:25:11.475Z</lastmod>
-    <data>
-        <display>
-        <title>Array原型之变异方法</title>
-        <pubTime>2018-11-08T14:45:31.000Z</pubTime>
-        
-        <tag>Array</tag>
-         
-        <tag>数组原型</tag>
-         
-        <tag>变异方法</tag>
-         
-         
-           
-             
-              <breadCrumb title="数组总结" url="https://www.yexiaochen.com/categories/%E6%95%B0%E7%BB%84%E6%80%BB%E7%BB%93/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://www.yexiaochen.com/Array%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0/</loc>
-    <lastmod>2018-12-03T14:20:36.011Z</lastmod>
-    <data>
-        <display>
-        <title>Array构造函数</title>
-        <pubTime>2018-11-08T14:41:04.000Z</pubTime>
-        
-        <tag>Array</tag>
-         
-        <tag>构造函数</tag>
-         
-         
-           
-             
-              <breadCrumb title="数组总结" url="https://www.yexiaochen.com/categories/%E6%95%B0%E7%BB%84%E6%80%BB%E7%BB%93/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://www.yexiaochen.com/Array%E5%8E%9F%E5%9E%8B%E4%B9%8B%E9%9D%9E%E5%8F%98%E5%BC%82%E6%96%B9%E6%B3%95/</loc>
-    <lastmod>2018-12-03T14:19:47.918Z</lastmod>
-    <data>
-        <display>
-        <title>Array原型之非变异方法</title>
-        <pubTime>2018-11-08T14:48:52.000Z</pubTime>
-        
-        <tag>Array</tag>
-         
-        <tag>数组原型</tag>
-         
-        <tag>非变异方法</tag>
-         
-         
-           
-             
-              <breadCrumb title="数组总结" url="https://www.yexiaochen.com/categories/%E6%95%B0%E7%BB%84%E6%80%BB%E7%BB%93/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://www.yexiaochen.com/Array%E5%8E%9F%E5%9E%8B%E4%B9%8B%E8%BF%AD%E4%BB%A3%E6%96%B9%E6%B3%95/</loc>
-    <lastmod>2018-12-03T14:16:12.277Z</lastmod>
-    <data>
-        <display>
-        <title>Array原型之迭代方法</title>
-        <pubTime>2018-11-08T14:51:57.000Z</pubTime>
-        
-        <tag>Array</tag>
-         
-        <tag>数组原型</tag>
-         
-        <tag>迭代方法</tag>
-         
-         
-           
-             
-              <breadCrumb title="数组总结" url="https://www.yexiaochen.com/categories/%E6%95%B0%E7%BB%84%E6%80%BB%E7%BB%93/"/>
           
         </display>
     </data>
