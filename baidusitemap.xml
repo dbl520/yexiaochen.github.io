@@ -4,8 +4,28 @@
 
     
   <url>
+    <loc>https://www.yexiaochen.com/%E5%89%8D%E7%AB%AF%E7%AC%94%E8%AF%95%E4%B9%8B%E6%89%8B%E5%86%99%E4%BB%A3%E7%A0%81/</loc>
+    <lastmod>2019-04-02T12:58:12.401Z</lastmod>
+    <data>
+        <display>
+        <title>前端笔试之手写代码</title>
+        <pubTime>2019-02-23T01:44:37.000Z</pubTime>
+        
+        <tag>面试</tag>
+         
+         
+           
+             
+              <breadCrumb title="写着玩" url="https://www.yexiaochen.com/categories/%E5%86%99%E7%9D%80%E7%8E%A9/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://www.yexiaochen.com/DIP%E3%80%81IoC%E3%80%81DI%E3%80%81JS/</loc>
-    <lastmod>2019-03-31T16:22:08.323Z</lastmod>
+    <lastmod>2019-04-01T12:10:27.230Z</lastmod>
     <data>
         <display>
         <title>DIP、IoC、DI、JS</title>
@@ -421,26 +441,6 @@
            
              
               <breadCrumb title="善事利器" url="https://www.yexiaochen.com/categories/%E5%96%84%E4%BA%8B%E5%88%A9%E5%99%A8/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://www.yexiaochen.com/%E5%89%8D%E7%AB%AF%E7%AC%94%E8%AF%95%E4%B9%8B%E6%89%8B%E5%86%99%E4%BB%A3%E7%A0%81/</loc>
-    <lastmod>2019-03-02T04:14:04.827Z</lastmod>
-    <data>
-        <display>
-        <title>前端笔试之手写代码</title>
-        <pubTime>2019-02-23T01:44:37.000Z</pubTime>
-        
-        <tag>面试</tag>
-         
-         
-           
-             
-              <breadCrumb title="写着玩" url="https://www.yexiaochen.com/categories/%E5%86%99%E7%9D%80%E7%8E%A9/"/>
           
         </display>
     </data>
