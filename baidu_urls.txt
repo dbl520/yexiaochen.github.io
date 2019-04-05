@@ -1,3 +1,4 @@
+https://www.yexiaochen.com/读懂UML类图/
 https://www.yexiaochen.com/DIP、IoC、DI、JS/
 https://www.yexiaochen.com/JaVaScript中的模块/
 https://www.yexiaochen.com/异步的JavaScript（终篇）/
@@ -7,4 +8,3 @@ https://www.yexiaochen.com/异步的JavaScript——Promise篇/
 https://www.yexiaochen.com/前端笔试之手写代码/
 https://www.yexiaochen.com/异步的JavaScript/
 https://www.yexiaochen.com/关于MVC模式简单代码实现/
-https://www.yexiaochen.com/白话MVC-MVP-MVVM/
