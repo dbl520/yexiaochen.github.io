@@ -1,3 +1,5 @@
+https://www.yexiaochen.com/用Type驯化JavaScript/
+https://www.yexiaochen.com/随手记（一）/
 https://www.yexiaochen.com/读懂UML类图/
 https://www.yexiaochen.com/DIP、IoC、DI、JS/
 https://www.yexiaochen.com/JaVaScript中的模块/
@@ -6,5 +8,3 @@ https://www.yexiaochen.com/从迭代器模式到迭代协议/
 https://www.yexiaochen.com/用DevTools提高你的工作效率/
 https://www.yexiaochen.com/异步的JavaScript——Promise篇/
 https://www.yexiaochen.com/前端笔试之手写代码/
-https://www.yexiaochen.com/异步的JavaScript/
-https://www.yexiaochen.com/关于MVC模式简单代码实现/
