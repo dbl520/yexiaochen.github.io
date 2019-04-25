@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[关于MVVM模式简单代码实现]]></title>
     <url>%2F%E5%85%B3%E4%BA%8EMVVM%E6%A8%A1%E5%BC%8F%E7%AE%80%E5%8D%95%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0%2F</url>
-    <content type="text"><![CDATA[在写 关于MVC模式简单代码实现 的过程中，觉得最麻烦的就是操作 DOM。所以这次换升级了，打算用 React。用过 React 的同学都知道，React 在更新视图时，必须要通过 setState 方式改变状态，这一过程是需要我们主动调用的。而 Vue 是通过对 data 下的变量赋值直接更新了视图，Vue 之所以这么简单，是因为采用了数据劫持的方式。所以，这次的目的就是在 React 的基础上实现和 Vue 类似的效果。实现思路就是利用高阶组件里的反向继承对包裹组件的 state 劫持。这是一个练手的小项目，没考虑那么多。为什么这么闲呢，那是因为之前写了 用Type驯化JavaScript 这篇文章，所以就捣鼓出这么一个玩意。所有代码可见github12345678910111213141516171819202122232425262728293031323334// Mvvm.tsxconst hocExtends = (WrapperComponent: ComponentClass) =&gt; ( class extends WrapperComponent &#123; constructor(props: any) &#123; super(props); &#125; render() &#123; let self = this; this.state = new Proxy(&#123; ...this.state &#125;, &#123; get: function (target, key, receiver) &#123; return Reflect.get(target, key, receiver); &#125;, set: function (target, key, value, receiver): any &#123; self.setState(&#123; [key]: value &#125;) return Reflect.set(target, key, value, receiver); &#125; &#125;) return super.render() &#125; &#125;)......filterSearchStuff(searchStuff: string): void &#123; const &#123; stuffData &#125; = this.state; let stuffItem: IStuff = stuffData.find((item: IStuff) =&gt; item.stuff === searchStuff) this.state.stuffItem = stuffItem; // this.setState(&#123; // stuffItem // &#125;) &#125;......]]></content>
+    <content type="text"><![CDATA[在写 关于MVC模式简单代码实现 的过程中，觉得最麻烦的就是操作 DOM。所以这次升级了，打算用 React。用过 React 的同学都知道，React 在更新视图时，必须要通过 setState 方式改变状态，这一过程是需要我们主动调用的。而 Vue 是通过对 data 下的变量赋值直接更新了视图，Vue 之所以这么简单，是因为采用了数据劫持的方式。所以，这次的目的就是在 React 的基础上实现和 Vue 类似的效果。实现思路就是利用高阶组件里的反向继承对包裹组件的 state 劫持。这是一个练手的小项目，没考虑那么多。为什么这么闲呢，那是因为之前写了 用Type驯化JavaScript 这篇文章，所以就捣鼓出这么一个玩意。所有代码可见github12345678910111213141516171819202122232425262728293031323334// Mvvm.tsxconst hocExtends = (WrapperComponent: ComponentClass) =&gt; ( class extends WrapperComponent &#123; constructor(props: any) &#123; super(props); &#125; render() &#123; let self = this; this.state = new Proxy(&#123; ...this.state &#125;, &#123; get: function (target, key, receiver) &#123; return Reflect.get(target, key, receiver); &#125;, set: function (target, key, value, receiver): any &#123; self.setState(&#123; [key]: value &#125;) return Reflect.set(target, key, value, receiver); &#125; &#125;) return super.render() &#125; &#125;)......filterSearchStuff(searchStuff: string): void &#123; const &#123; stuffData &#125; = this.state; let stuffItem: IStuff = stuffData.find((item: IStuff) =&gt; item.stuff === searchStuff) this.state.stuffItem = stuffItem; // this.setState(&#123; // stuffItem // &#125;) &#125;......]]></content>
       <categories>
         <category>设计模式</category>
       </categories>
@@ -170,8 +170,8 @@
         <category>这个想法不一定对</category>
       </categories>
       <tags>
-        <tag>MVC</tag>
         <tag>MVVM</tag>
+        <tag>MVC</tag>
         <tag>MVP</tag>
         <tag>MV*</tag>
       </tags>

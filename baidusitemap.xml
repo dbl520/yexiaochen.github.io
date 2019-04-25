@@ -5,7 +5,7 @@
     
   <url>
     <loc>https://www.yexiaochen.com/%E5%85%B3%E4%BA%8EMVVM%E6%A8%A1%E5%BC%8F%E7%AE%80%E5%8D%95%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0/</loc>
-    <lastmod>2019-04-25T14:39:56.913Z</lastmod>
+    <lastmod>2019-04-25T15:16:01.749Z</lastmod>
     <data>
         <display>
         <title>关于MVVM模式简单代码实现</title>
@@ -569,9 +569,9 @@
         <title>白话MVC/MVP/MVVM</title>
         <pubTime>2019-02-05T10:03:01.000Z</pubTime>
         
-        <tag>MVC</tag>
-         
         <tag>MVVM</tag>
+         
+        <tag>MVC</tag>
          
         <tag>MVP</tag>
          
