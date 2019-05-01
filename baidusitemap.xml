@@ -4,6 +4,32 @@
 
     
   <url>
+    <loc>https://www.yexiaochen.com/Hexo%E5%8D%9A%E5%AE%A2%E5%8D%87%E7%BA%A7%E4%B8%BAPWA/</loc>
+    <lastmod>2019-05-01T10:55:55.634Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo博客升级为PWA</title>
+        <pubTime>2019-05-01T06:53:54.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+        <tag>PWA</tag>
+         
+        <tag>渐进式网络应用程序</tag>
+         
+        <tag>workbox</tag>
+         
+         
+           
+             
+              <breadCrumb title="写着玩" url="https://www.yexiaochen.com/categories/%E5%86%99%E7%9D%80%E7%8E%A9/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://www.yexiaochen.com/%E5%85%B3%E4%BA%8EMVVM%E6%A8%A1%E5%BC%8F%E7%AE%80%E5%8D%95%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0/</loc>
     <lastmod>2019-04-25T15:16:01.749Z</lastmod>
     <data>
@@ -569,9 +595,9 @@
         <title>白话MVC/MVP/MVVM</title>
         <pubTime>2019-02-05T10:03:01.000Z</pubTime>
         
-        <tag>MVC</tag>
-         
         <tag>MVVM</tag>
+         
+        <tag>MVC</tag>
          
         <tag>MVP</tag>
          

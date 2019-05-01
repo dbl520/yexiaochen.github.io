@@ -1,3 +1,4 @@
+https://www.yexiaochen.com/Hexo博客升级为PWA/
 https://www.yexiaochen.com/关于MVVM模式简单代码实现/
 https://www.yexiaochen.com/用Type驯化JavaScript/
 https://www.yexiaochen.com/随手记（一）/
@@ -7,4 +8,3 @@ https://www.yexiaochen.com/JaVaScript中的模块/
 https://www.yexiaochen.com/异步的JavaScript（终篇）/
 https://www.yexiaochen.com/从迭代器模式到迭代协议/
 https://www.yexiaochen.com/用DevTools提高你的工作效率/
-https://www.yexiaochen.com/异步的JavaScript——Promise篇/
