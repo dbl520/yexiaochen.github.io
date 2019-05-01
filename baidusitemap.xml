@@ -5,7 +5,7 @@
     
   <url>
     <loc>https://www.yexiaochen.com/Hexo%E5%8D%9A%E5%AE%A2%E5%8D%87%E7%BA%A7%E4%B8%BAPWA/</loc>
-    <lastmod>2019-05-01T10:55:55.634Z</lastmod>
+    <lastmod>2019-05-01T11:06:41.903Z</lastmod>
     <data>
         <display>
         <title>Hexo博客升级为PWA</title>
@@ -595,9 +595,9 @@
         <title>白话MVC/MVP/MVVM</title>
         <pubTime>2019-02-05T10:03:01.000Z</pubTime>
         
-        <tag>MVVM</tag>
-         
         <tag>MVC</tag>
+         
+        <tag>MVVM</tag>
          
         <tag>MVP</tag>
          
