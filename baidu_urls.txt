@@ -1,3 +1,4 @@
+https://www.yexiaochen.com/数据结构/
 https://www.yexiaochen.com/浅尝webpack/
 https://www.yexiaochen.com/《你的孤独，虽败犹荣》摘抄/
 https://www.yexiaochen.com/Hexo博客升级为PWA/
@@ -7,4 +8,3 @@ https://www.yexiaochen.com/随手记（一）/
 https://www.yexiaochen.com/读懂UML类图/
 https://www.yexiaochen.com/DIP、IoC、DI、JS/
 https://www.yexiaochen.com/JaVaScript中的模块/
-https://www.yexiaochen.com/异步的JavaScript（终篇）/
