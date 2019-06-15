@@ -4,8 +4,50 @@
 
     
   <url>
+    <loc>https://www.yexiaochen.com/%E6%89%8B%E5%86%99webpack%E8%84%9A%E6%89%8B%E6%9E%B6%E7%9A%84cli%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2019-06-15T07:55:52.395Z</lastmod>
+    <data>
+        <display>
+        <title>手写webpack脚手架的cli工具</title>
+        <pubTime>2019-06-15T03:01:07.000Z</pubTime>
+        
+        <tag>CLI</tag>
+         
+        <tag>命令行界面</tag>
+         
+         
+           
+             
+              <breadCrumb title="写着玩" url="https://www.yexiaochen.com/categories/%E5%86%99%E7%9D%80%E7%8E%A9/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.yexiaochen.com/%E9%9A%8F%E6%89%8B%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89/</loc>
+    <lastmod>2019-06-15T01:25:58.291Z</lastmod>
+    <data>
+        <display>
+        <title>随手记（一）</title>
+        <pubTime>2019-04-05T01:51:27.000Z</pubTime>
+        
+        <tag>随手记</tag>
+         
+         
+           
+             
+              <breadCrumb title="天坑也填坑" url="https://www.yexiaochen.com/categories/%E5%A4%A9%E5%9D%91%E4%B9%9F%E5%A1%AB%E5%9D%91/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://www.yexiaochen.com/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
-    <lastmod>2019-06-07T07:14:54.401Z</lastmod>
+    <lastmod>2019-06-08T01:32:40.597Z</lastmod>
     <data>
         <display>
         <title>数据结构</title>
@@ -131,26 +173,6 @@
            
              
               <breadCrumb title="这个想法不一定对" url="https://www.yexiaochen.com/categories/%E8%BF%99%E4%B8%AA%E6%83%B3%E6%B3%95%E4%B8%8D%E4%B8%80%E5%AE%9A%E5%AF%B9/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://www.yexiaochen.com/%E9%9A%8F%E6%89%8B%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89/</loc>
-    <lastmod>2019-04-05T02:38:16.299Z</lastmod>
-    <data>
-        <display>
-        <title>随手记（一）</title>
-        <pubTime>2019-04-05T01:51:27.000Z</pubTime>
-        
-        <tag>随手记</tag>
-         
-         
-           
-             
-              <breadCrumb title="天坑也填坑" url="https://www.yexiaochen.com/categories/%E5%A4%A9%E5%9D%91%E4%B9%9F%E5%A1%AB%E5%9D%91/"/>
           
         </display>
     </data>
