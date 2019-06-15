@@ -5,7 +5,7 @@
     
   <url>
     <loc>https://www.yexiaochen.com/%E6%89%8B%E5%86%99webpack%E8%84%9A%E6%89%8B%E6%9E%B6%E7%9A%84cli%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2019-06-15T07:59:43.231Z</lastmod>
+    <lastmod>2019-06-15T08:00:29.381Z</lastmod>
     <data>
         <display>
         <title>手写webpack脚手架的cli工具</title>
@@ -677,9 +677,9 @@
         <title>白话MVC/MVP/MVVM</title>
         <pubTime>2019-02-05T10:03:01.000Z</pubTime>
         
-        <tag>MVC</tag>
-         
         <tag>MVVM</tag>
+         
+        <tag>MVC</tag>
          
         <tag>MVP</tag>
          
