@@ -5,7 +5,7 @@
     
   <url>
     <loc>https://www.yexiaochen.com/%E6%89%8B%E5%86%99webpack%E8%84%9A%E6%89%8B%E6%9E%B6%E7%9A%84cli%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2019-06-15T07:55:52.395Z</lastmod>
+    <lastmod>2019-06-15T07:59:43.231Z</lastmod>
     <data>
         <display>
         <title>手写webpack脚手架的cli工具</title>
@@ -651,13 +651,13 @@
         <title>关于MVC模式简单代码实现</title>
         <pubTime>2019-02-06T03:40:56.000Z</pubTime>
         
+        <tag>观察者模式</tag>
+         
         <tag>MVC</tag>
          
         <tag>策略模式</tag>
          
         <tag>组合模式</tag>
-         
-        <tag>观察者模式</tag>
          
          
            
