@@ -4,6 +4,28 @@
 
     
   <url>
+    <loc>https://www.yexiaochen.com/docker-gitlab/</loc>
+    <lastmod>2019-07-19T15:21:29.147Z</lastmod>
+    <data>
+        <display>
+        <title>docker-compose安装gitlab</title>
+        <pubTime>2019-07-19T13:16:58.000Z</pubTime>
+        
+        <tag>gitlab</tag>
+         
+        <tag>git工作流程</tag>
+         
+         
+           
+             
+              <breadCrumb title="写着玩" url="https://www.yexiaochen.com/categories/%E5%86%99%E7%9D%80%E7%8E%A9/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://www.yexiaochen.com/React-Koa-MongoDB-Docker/</loc>
     <lastmod>2019-07-08T12:34:31.428Z</lastmod>
     <data>
@@ -741,9 +763,9 @@
         <title>白话MVC/MVP/MVVM</title>
         <pubTime>2019-02-05T10:03:01.000Z</pubTime>
         
-        <tag>MVC</tag>
-         
         <tag>MVVM</tag>
+         
+        <tag>MVC</tag>
          
         <tag>MVP</tag>
          
