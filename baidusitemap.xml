@@ -4,8 +4,28 @@
 
     
   <url>
+    <loc>https://www.yexiaochen.com/%E8%A7%A3%E5%89%96%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/</loc>
+    <lastmod>2019-07-20T17:03:19.339Z</lastmod>
+    <data>
+        <display>
+        <title>解剖排序算法</title>
+        <pubTime>2019-07-20T02:14:11.000Z</pubTime>
+        
+        <tag>排序算法</tag>
+         
+         
+           
+             
+              <breadCrumb title="数据结构与算法" url="https://www.yexiaochen.com/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://www.yexiaochen.com/docker-gitlab/</loc>
-    <lastmod>2019-07-19T15:21:29.147Z</lastmod>
+    <lastmod>2019-07-19T15:27:59.379Z</lastmod>
     <data>
         <display>
         <title>docker-compose安装gitlab</title>
@@ -763,9 +783,9 @@
         <title>白话MVC/MVP/MVVM</title>
         <pubTime>2019-02-05T10:03:01.000Z</pubTime>
         
-        <tag>MVVM</tag>
-         
         <tag>MVC</tag>
+         
+        <tag>MVVM</tag>
          
         <tag>MVP</tag>
          
