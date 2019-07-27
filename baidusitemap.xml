@@ -4,6 +4,52 @@
 
     
   <url>
+    <loc>https://www.yexiaochen.com/Node%E5%86%99%E7%88%AC%E8%99%AB/</loc>
+    <lastmod>2019-07-27T11:40:00.535Z</lastmod>
+    <data>
+        <display>
+        <title>Node写爬虫</title>
+        <pubTime>2019-07-27T09:57:32.000Z</pubTime>
+        
+        <tag>爬虫</tag>
+         
+        <tag>Node</tag>
+         
+         
+           
+             
+              <breadCrumb title="写着玩" url="https://www.yexiaochen.com/categories/%E5%86%99%E7%9D%80%E7%8E%A9/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.yexiaochen.com/%E6%89%8B%E5%86%99webpack%E8%84%9A%E6%89%8B%E6%9E%B6%E7%9A%84cli%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2019-07-27T09:58:41.854Z</lastmod>
+    <data>
+        <display>
+        <title>手写webpack脚手架的cli工具</title>
+        <pubTime>2019-06-15T03:01:07.000Z</pubTime>
+        
+        <tag>Node</tag>
+         
+        <tag>CLI</tag>
+         
+        <tag>命令行界面</tag>
+         
+         
+           
+             
+              <breadCrumb title="写着玩" url="https://www.yexiaochen.com/categories/%E5%86%99%E7%9D%80%E7%8E%A9/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://www.yexiaochen.com/%E8%AE%BA%E5%AD%A6%E4%B9%A0%E4%B9%8B%E9%81%93%E6%9C%89%E6%84%9F/</loc>
     <lastmod>2019-07-21T09:15:14.826Z</lastmod>
     <data>
@@ -138,28 +184,6 @@
         <pubTime>2019-06-19T14:12:52.000Z</pubTime>
         
         <tag>webpack</tag>
-         
-         
-           
-             
-              <breadCrumb title="写着玩" url="https://www.yexiaochen.com/categories/%E5%86%99%E7%9D%80%E7%8E%A9/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://www.yexiaochen.com/%E6%89%8B%E5%86%99webpack%E8%84%9A%E6%89%8B%E6%9E%B6%E7%9A%84cli%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2019-06-15T08:00:29.381Z</lastmod>
-    <data>
-        <display>
-        <title>手写webpack脚手架的cli工具</title>
-        <pubTime>2019-06-15T03:01:07.000Z</pubTime>
-        
-        <tag>CLI</tag>
-         
-        <tag>命令行界面</tag>
          
          
            
