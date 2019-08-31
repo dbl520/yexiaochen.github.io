@@ -4,6 +4,41 @@
 
     
   <url>
+    <loc>https://www.yexiaochen.com/%E3%80%8A%E9%87%8D%E6%9E%84%E3%80%8B%E8%AF%BB%E5%90%8E%E6%84%9F/</loc>
+    <lastmod>2019-08-31T06:36:27.240Z</lastmod>
+    <data>
+        <display>
+        <title>《重构》读后感</title>
+        <pubTime>2019-08-31T03:38:57.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.yexiaochen.com/%E9%9A%8F%E6%89%8B%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89/</loc>
+    <lastmod>2019-08-31T03:37:22.595Z</lastmod>
+    <data>
+        <display>
+        <title>随手记（一）</title>
+        <pubTime>2019-04-05T01:51:27.000Z</pubTime>
+        
+        <tag>随手记</tag>
+         
+         
+           
+             
+              <breadCrumb title="天坑也填坑" url="https://www.yexiaochen.com/categories/%E5%A4%A9%E5%9D%91%E4%B9%9F%E5%A1%AB%E5%9D%91/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://www.yexiaochen.com/%E5%89%8D%E7%AB%AF%E7%AC%94%E8%AF%95%E4%B9%8B%E6%89%8B%E5%86%99%E4%BB%A3%E7%A0%81/</loc>
     <lastmod>2019-08-08T12:35:55.334Z</lastmod>
     <data>
@@ -233,26 +268,6 @@
            
              
               <breadCrumb title="写着玩" url="https://www.yexiaochen.com/categories/%E5%86%99%E7%9D%80%E7%8E%A9/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://www.yexiaochen.com/%E9%9A%8F%E6%89%8B%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89/</loc>
-    <lastmod>2019-06-15T01:25:58.291Z</lastmod>
-    <data>
-        <display>
-        <title>随手记（一）</title>
-        <pubTime>2019-04-05T01:51:27.000Z</pubTime>
-        
-        <tag>随手记</tag>
-         
-         
-           
-             
-              <breadCrumb title="天坑也填坑" url="https://www.yexiaochen.com/categories/%E5%A4%A9%E5%9D%91%E4%B9%9F%E5%A1%AB%E5%9D%91/"/>
           
         </display>
     </data>
@@ -825,13 +840,13 @@
         <title>关于MVC模式简单代码实现</title>
         <pubTime>2019-02-06T03:40:56.000Z</pubTime>
         
+        <tag>观察者模式</tag>
+         
         <tag>MVC</tag>
          
         <tag>策略模式</tag>
          
         <tag>组合模式</tag>
-         
-        <tag>观察者模式</tag>
          
          
            
@@ -851,9 +866,9 @@
         <title>白话MVC/MVP/MVVM</title>
         <pubTime>2019-02-05T10:03:01.000Z</pubTime>
         
-        <tag>MVC</tag>
-         
         <tag>MVVM</tag>
+         
+        <tag>MVC</tag>
          
         <tag>MVP</tag>
          

@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[《重构》读后感]]></title>
+    <url>%2F%E3%80%8A%E9%87%8D%E6%9E%84%E3%80%8B%E8%AF%BB%E5%90%8E%E6%84%9F%2F</url>
+    <content type="text"><![CDATA[重构技术就是以微小的步伐修改程序。如果你犯下错误，很容易便可发现它。傻瓜都能写出计算机可以理解的代码。唯有能写出人类容易理解的代码的，才是优秀的程序员。如果重构引入了性能损耗，先完成重构，再做性能优化。重构早期的主要动力是尝试理解代码如何工作。好代码的检验标准就是人们是否能轻而易举地修改它。重构的唯一目的就是让我们开发很快，用更少的工作量创造更大的价值。前言《重构》这本书，虽然看着很厚，但是读起来却又感觉很薄。用上周末的时间，读完这本书还是有可能的。之前也有做过重构的工作，不过那都是经验之谈，如果被问起为什么这么重构，估计我也不能很好得回答这个问题。所以，在这种情况下通读《重构》，还是挺有收获的，起码从经验上升到了理论。重构原则要了解重构，还是从 What，Why，How 三方面入手。重构是什么？为什么要重构？怎么去重构？重构，使用一系列重构手法，在不改变可观察行为的前提下，对软件内部结构的一种调整。目的是提高其可理解性，降低其修改成本。什么时候重构？如果你看不懂一段代码是在做什么，那么重构它。如果一段代码的目的依赖于注释，那么重构它。如果，一段代码想要添加新的功能，却无处下手，那么重构它。重构就是为了更容易理解，更容易修改。如果不能满足以上条件，这时候就有必要考虑重构了。程序也并非从头到尾翻新一遍才叫重构，步子不能迈大，更希望的是小步快走的节奏。随时随地重构，用小步积累起来慢慢改善系统的设计。当然在实际的开发中，还会遇到各种挑战，比如，新功能开发，测试，性能等问题。而这些，在《重构》的前两章都有介绍。知道了什么和为什么，那么，怎么去重构呢？在重构前，我们还要知道如何辨别需要重构的代码。重构《重构》在第三章也分门别类列举了需要重构的代码所具有的特点。神秘命名，命名要清晰表达功能和用法。重复代码，提炼重复代码，避免重复的代码结构。过长函数，函数越长就越难理解，分解函数，使用小函数。过长参数列表和全局数据。可变数据，对数据的修改经常会导致难以发现和难以跟踪的 bug。发散式变化，模块因不同原因在不同方向上发生了变化。霰弹式修改，将变化的封装起来。依恋情节，一个函数和另一个模块的函数或者数据交流格外频繁，远胜于在自己所处模块内部的交流。数据泥团和基本类型的偏执。重复的 switch 和循环语句。冗赘的元素、夸夸其谈通用性和临时字段。过长的消息链和中间人。内幕交易，避免模块间的大量数据交换，降低模块间的耦合性。过大的类和异曲同工的类。纯数据的类、被拒绝的遗赠和注释。以上就是书中列举的代码的坏味道，每一个坏味道中都有相应的重构手法。第四章，小步快走虽然很大程度上保障重构后的系统稳定性，不过构筑一个测试体系就更好了。从第五章开始，作者依据重构手法的不同划分为第一组重构、封装、搬移特性、重新组织数据、简化条件逻辑、重构 API、处理继承关系等。本书的内容很多却又不多，正如作者所说，你可以把它当成重构字典，没必要记住每个重构手法，只需要在重构时知道采用什么样的策略即可。]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[小程序云开发之始末]]></title>
     <url>%2F%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%BA%91%E5%BC%80%E5%8F%91%E4%B9%8B%E5%A7%8B%E6%9C%AB%2F</url>
     <content type="text"><![CDATA[前言一直都不喜欢微信，所以关于小程序的开发也是没怎么上心。只是在浏览招聘网站时，发现小程序已经成为前端开发人员的一个基本技能了。所以，只能硬着头皮尝试着学习开发小程序。在学习小程序开发时，倒是没觉得有什么阻碍，毕竟前端的最流行的框架已经流行了那么多年了，从某些方面，它们是相似的。本次所开发的功能很简单，但是就整个流程来说却是很漫长的，由于是从零开始开发，所以大部分时间还是花在了产品的构思上和小程序一些奇奇怪怪的问题上。而且，这次的开发只完成了产品预想的 50% 左右，核心的部分基本没有去做。最大的原因可能就是开发体验不好，浪费时间。小程序云开发对于个人开发人员来说，小程序云开发降低了开发门槛，尤其是前端人员的门槛。基于云开发，前端人员可以完成从前端到后台的所有任务。小程序云平台有着 Node环境，所以我们可以把它想象成基于 node 的后台环境。以爬虫为例，首先在 cloudfunctions 文件夹下创建文件夹 crawler，在该文件夹下面在创建创建相应 crawler.js 、package.json 文件，剩下就可以写些逻辑了。1234567891011121314151617181920212223242526272829303132333435363738394041// 云函数入口文件const cloud = require('wx-server-sdk')const Crawler = require("crawler");cloud.init()const uriArray = [&#123; uri: 'http://www.nows.fun/', selector: '#sentence' &#125;, &#123; uri: 'https://www.nihaowua.com/', selector: 'body &gt; div &gt; section &gt; div' &#125;, &#123; uri: 'https://www.nihaowua.com/home.html', selector: 'body &gt; div &gt; section &gt; div' &#125;];let crawler = new Crawler();let canClick = true;const crawlerWebPage = () =&gt; &#123; if (!canClick) return false; canClick = false; let index = Math.floor(Math.random() * 3); let &#123; uri, selector &#125; = uriArray[index]; return new Promise((resolve, reject) =&gt; &#123; crawler.direct(&#123; uri: uri, retries: 0, timeout: 5000, skipEventRequest: false, callback: function (error, response) &#123; canClick = true; if (error) &#123; console.log(error) &#125; else &#123; var $ = response.$; var content = $(selector).text(); console.log('index', index) resolve(content); &#125; &#125; &#125;) &#125;)&#125;;exports.main = async (event, content) =&gt; &#123; const result = await crawlerWebPage(); return result;&#125;云函数创建好了，剩下的就是在小程序中去调用了。123456789101112131415161718192021222324252627refresh: function (obj) &#123; if (!this.data.canClick) return; this.setData(&#123; canClick: false &#125;) wx.showLoading(&#123; title: '加载中', &#125;) wx.cloud.callFunction(&#123; name: "crawler", success: res =&gt; &#123; wx.hideLoading(); this.setData(&#123; soup: res.result, canClick: true &#125;) &#125;, fail: err =&gt; &#123; wx.hideLoading(); this.setData(&#123; soup: "鸡汤要一口一口喝，你太急啦", canClick: true &#125;) console.error('[云函数] [crawler] templateMessage.send 调用失败：', err) &#125; &#125;)&#125;小程序中的组件刚开始接触小程序时，给我的感觉像是在开发一个多页面应用。在开发构思的过程中，需要写的逻辑越来越多。于是就想着把这么多的东西拆开，翻了下文档，发现小程序提到自定义组件比较适合。首先在父组件中配置文件中配置子组件路径，然后自组件也要配置。123456789101112// father.json&#123; "usingComponents": &#123; "type-year": "../../component/type-year/type-year", "type-month": "../../component/type-month/type-month", "type-date": "../../component/type-date/type-date" &#125;&#125;// children.json&#123; "component": true&#125;剩下的就和 React、Vue 中的自定义组件差不多。以上也只是自定义组件，平时还会接触到第三方的组件，比如常用的 UI 组件。通常第三方组件都是使用 npm 包，但是小程序的环境比较特殊，它不是 Node 环境，所以基于 Node 环境的 npm 包也要特殊处理才能够在小程序只能够使用。尽管小程序官方提供了 npm 包转换的方案，但是依然会有很多包不能在小程序中使用，具体可见官方小程序开发文档。小程序中操作节点小程序的渲染层和逻辑层分别由2个线程管理，这和浏览器的环境是不一样的，所以要想操作节点需要使用小程序提供的API，不过在跨组件获取节点时，需要注意一下。12345678910111213141516171819onLoad: function () &#123; let height = &#123;&#125;; let yearChartHeight,monthChartHeight,componentHeight; let query = wx.createSelectorQuery().in(this); // Note: 操作节点 query.selectAll('#little_target, #target_type, #target_content').boundingClientRect( res =&gt; &#123; res.map(item =&gt; &#123; height[`$&#123;item.id&#125;_height`] = item.height; &#125;) yearChartHeight = height.little_target_height - height.target_content_height - height.target_type_height; componentHeight = monthChartHeight = height.little_target_height - height.target_type_height - 48; this.setData(&#123; yearHeight: yearChartHeight, monthHeight: monthChartHeight &#125;) &#125; ).exec();&#125;上面代码就是通过相关的 API 获取三个节点的数据。小程序中使用 echarts对比了 F2 和 echarts， 发现 echarts 提供的图表更多一些。这两个图表库的使用的方式也不同，F2 是 npm 包，需要转换导入使用。echarts 使用起来就相对简单一些，和上面提到的自定义组件一样，而且 echarts 还可以自定义选择需要图表导出，这样就减小包的体积。在使用这些图表库时，才明白什么叫做调參工程师，在开发的过程中真的是边看文档边调整参数。在使用 echarts 的过程中，本以为canvas 可以撑开盒子，结果发现需要父元素需要有高度，这也是为什么上面动态计算盒子高度。1234567891011121314&lt;!-- init 1 --&gt; &lt;view class="chart_wrap" style="height:&#123;&#123;chartHeight&#125;&#125;px"&gt; &lt;ec-canvas id="mychart-dom-bar" canvas-id="mychart-bar" ec="&#123;&#123; ec &#125;&#125;"&gt;&lt;/ec-canvas&gt; &lt;/view&gt;&lt;!-- data: &#123; ec: &#123; onInit: initChart &#125; &#125;, --&gt;&lt;!-- init 2--&gt; &lt;view class="chart_wrap" style="height:&#123;&#123;chartHeight&#125;&#125;px"&gt; &lt;ec-canvas id="mychart-dom-bar" canvas-id="mychart-bar" ec="&#123;&#123; ec &#125;&#125;" bind:init="echartInit"&gt;&lt;/ec-canvas&gt; &lt;/view&gt;在使用的过程中发现，初始化的方式并不惟一，结果也是不一样，这个需要注意一下。小程序的开发体验小程序的开发工具真心不怎么样，从日常 chrome 开发者工具再到小程序的开发者工具，这其中的差距还是很大。而且，我们不能方便随意地使用 npm 包，这在小程序中限制很明显。反正问题很多。over！]]></content>
@@ -183,7 +188,7 @@
   <entry>
     <title><![CDATA[随手记（一）]]></title>
     <url>%2F%E9%9A%8F%E6%89%8B%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89%2F</url>
-    <content type="text"><![CDATA[NET::ERR_CERT_DATE_INVALID描述：开发环境，接口请求转 https，Chrome 开发者工具控制台报错 ## NET::ERR_CERT_DATE_INVALID。解决方案：Chrome HSTS异常导致无法访问HTTPS网页涉及点：List of Chrome URLs、hstsChrome插件本地导出描述：由于某些原因，Chrome 应用商店无法浏览。对已下载的 Chrome 插件导出安装。解决方案：地址栏输入 chrome://extensions/, 开启开发者模式，打开待导出插件的详细信息，记录扩展程序 ID。地址栏输入 chrome://version/, 记录个人资料路径。扩展程序路径即为：个人资料路径 + ‘Extensions’ + 扩张程序 ID。终端进入拓展程序路径目录，目录下还有扩展程序的对应版本目录，记录扩展程序版本目录。回到扩展程序详情页，点击打包程序，输入扩展程序版本目录并点击打包扩展程序。进入扩展程序路径，拷贝 crx 格式文件即可。（ prm 为密钥文件）涉及点：无Cookie、跨域请求、请求方式描述：不同的请求方式（fetch、axios等）跨域请求时，是否主动携带 Cookie解决方案：Cookie的设置、读取以及是否自动携带问题涉及点：Fetch、XMLHttpRequest]]></content>
+    <content type="text"><![CDATA[NET::ERR_CERT_DATE_INVALID描述：开发环境，接口请求转 https，Chrome 开发者工具控制台报错 ## NET::ERR_CERT_DATE_INVALID。解决方案：Chrome HSTS异常导致无法访问HTTPS网页涉及点：List of Chrome URLs、hstsChrome插件本地导出描述：由于某些原因，Chrome 应用商店无法浏览。对已下载的 Chrome 插件导出安装。解决方案：地址栏输入 chrome://extensions/, 开启开发者模式，打开待导出插件的详细信息，记录扩展程序 ID。地址栏输入 chrome://version/, 记录个人资料路径。扩展程序路径即为：个人资料路径 + ‘Extensions’ + 扩张程序 ID。终端进入拓展程序路径目录，目录下还有扩展程序的对应版本目录，记录扩展程序版本目录。回到扩展程序详情页，点击打包程序，输入扩展程序版本目录并点击打包扩展程序。进入扩展程序路径，拷贝 crx 格式文件即可。（ prm 为密钥文件）涉及点：无Cookie、跨域请求、请求方式描述：不同的请求方式（fetch、axios等）跨域请求时，是否主动携带 Cookie解决方案：Cookie的设置、读取以及是否自动携带问题涉及点：Fetch、XMLHttpRequestgithub 资源下载慢描述：GitHub clone 开源项目，国内下载资源慢可能解决方案：简单有效的方法是，修改 host 文件，添加 192.30.253.112 github.com。]]></content>
       <categories>
         <category>天坑也填坑</category>
       </categories>
@@ -310,10 +315,10 @@
         <category>设计模式</category>
       </categories>
       <tags>
+        <tag>观察者模式</tag>
         <tag>MVC</tag>
         <tag>策略模式</tag>
         <tag>组合模式</tag>
-        <tag>观察者模式</tag>
       </tags>
   </entry>
   <entry>
@@ -324,8 +329,8 @@
         <category>这个想法不一定对</category>
       </categories>
       <tags>
-        <tag>MVC</tag>
         <tag>MVVM</tag>
+        <tag>MVC</tag>
         <tag>MVP</tag>
         <tag>MV*</tag>
       </tags>
