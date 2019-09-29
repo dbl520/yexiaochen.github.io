@@ -4,6 +4,21 @@
 
     
   <url>
+    <loc>https://www.yexiaochen.com/%E3%80%90%E8%AF%91%E3%80%91JavaScript-engine-fundamentals-Shapes-and-Inline-Caches/</loc>
+    <lastmod>2019-09-29T13:30:06.260Z</lastmod>
+    <data>
+        <display>
+        <title>【译】JavaScript engine fundamentals: Shapes and Inline Caches</title>
+        <pubTime>2019-09-28T02:03:15.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://www.yexiaochen.com/%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/</loc>
     <lastmod>2019-09-13T17:21:18.103Z</lastmod>
     <data>
@@ -132,9 +147,9 @@
         <title>手写webpack脚手架的cli工具</title>
         <pubTime>2019-06-15T03:01:07.000Z</pubTime>
         
-        <tag>Node</tag>
-         
         <tag>CLI</tag>
+         
+        <tag>Node</tag>
          
         <tag>命令行界面</tag>
          
@@ -860,13 +875,13 @@
         <title>关于MVC模式简单代码实现</title>
         <pubTime>2019-02-06T03:40:56.000Z</pubTime>
         
-        <tag>观察者模式</tag>
-         
         <tag>MVC</tag>
          
         <tag>策略模式</tag>
          
         <tag>组合模式</tag>
+         
+        <tag>观察者模式</tag>
          
          
            
