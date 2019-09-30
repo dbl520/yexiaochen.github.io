@@ -4,12 +4,56 @@
 
     
   <url>
+    <loc>https://www.yexiaochen.com/%E3%80%90%E8%AF%91%E3%80%91JavaScript-engine-fundamentals-optimizing-prototypes/</loc>
+    <lastmod>2019-09-30T13:14:13.561Z</lastmod>
+    <data>
+        <display>
+        <title>【译】JavaScript engine fundamentals: optimizing prototypes</title>
+        <pubTime>2019-09-29T13:35:37.000Z</pubTime>
+        
+        <tag>JavaScript 引擎</tag>
+         
+        <tag>V8</tag>
+         
+         
+           
+             
+              <breadCrumb title="写点啥" url="https://www.yexiaochen.com/categories/%E5%86%99%E7%82%B9%E5%95%A5/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://www.yexiaochen.com/%E3%80%90%E8%AF%91%E3%80%91JavaScript-engine-fundamentals-Shapes-and-Inline-Caches/</loc>
-    <lastmod>2019-09-29T13:30:06.260Z</lastmod>
+    <lastmod>2019-09-29T13:37:08.067Z</lastmod>
     <data>
         <display>
         <title>【译】JavaScript engine fundamentals: Shapes and Inline Caches</title>
         <pubTime>2019-09-28T02:03:15.000Z</pubTime>
+        
+        <tag>JavaScript 引擎</tag>
+         
+        <tag>V8</tag>
+         
+         
+           
+             
+              <breadCrumb title="写点啥" url="https://www.yexiaochen.com/categories/%E5%86%99%E7%82%B9%E5%95%A5/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.yexiaochen.com/%E3%80%90%E8%AF%91%E3%80%91The-story-of-a-V8-performance-cliff-in-React/</loc>
+    <lastmod>2019-09-29T13:35:57.535Z</lastmod>
+    <data>
+        <display>
+        <title>【译】The story of a V8 performance cliff in React</title>
+        <pubTime>2019-09-29T13:35:57.000Z</pubTime>
         
          
            
@@ -147,9 +191,9 @@
         <title>手写webpack脚手架的cli工具</title>
         <pubTime>2019-06-15T03:01:07.000Z</pubTime>
         
-        <tag>CLI</tag>
-         
         <tag>Node</tag>
+         
+        <tag>CLI</tag>
          
         <tag>命令行界面</tag>
          
@@ -875,13 +919,13 @@
         <title>关于MVC模式简单代码实现</title>
         <pubTime>2019-02-06T03:40:56.000Z</pubTime>
         
+        <tag>观察者模式</tag>
+         
         <tag>MVC</tag>
          
         <tag>策略模式</tag>
          
         <tag>组合模式</tag>
-         
-        <tag>观察者模式</tag>
          
          
            
@@ -901,9 +945,9 @@
         <title>白话MVC/MVP/MVVM</title>
         <pubTime>2019-02-05T10:03:01.000Z</pubTime>
         
-        <tag>MVC</tag>
-         
         <tag>MVVM</tag>
+         
+        <tag>MVC</tag>
          
         <tag>MVP</tag>
          
