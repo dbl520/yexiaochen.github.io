@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.yexiaochen.com/%E3%80%90%E8%AF%91%E3%80%91The-story-of-a-V8-performance-cliff-in-React/</loc>
+    
+    <lastmod>2019-10-02T02:36:38.433Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.yexiaochen.com/%E3%80%90%E8%AF%91%E3%80%91JavaScript-engine-fundamentals-optimizing-prototypes/</loc>
     
     <lastmod>2019-09-30T13:14:13.561Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>https://www.yexiaochen.com/%E3%80%90%E8%AF%91%E3%80%91JavaScript-engine-fundamentals-Shapes-and-Inline-Caches/</loc>
     
     <lastmod>2019-09-29T13:37:08.067Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.yexiaochen.com/%E3%80%90%E8%AF%91%E3%80%91The-story-of-a-V8-performance-cliff-in-React/</loc>
-    
-    <lastmod>2019-09-29T13:35:57.535Z</lastmod>
     
   </url>
   
