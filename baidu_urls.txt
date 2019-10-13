@@ -1,3 +1,4 @@
+https://www.yexiaochen.com/读《乌合之众》/
 https://www.yexiaochen.com/【译】The-story-of-a-V8-performance-cliff-in-React/
 https://www.yexiaochen.com/【译】JavaScript-engine-fundamentals-optimizing-prototypes/
 https://www.yexiaochen.com/【译】JavaScript-engine-fundamentals-Shapes-and-Inline-Caches/
@@ -7,4 +8,3 @@ https://www.yexiaochen.com/小程序云开发之始末/
 https://www.yexiaochen.com/Node写爬虫/
 https://www.yexiaochen.com/论学习之道有感/
 https://www.yexiaochen.com/解剖排序算法/
-https://www.yexiaochen.com/docker-gitlab/
