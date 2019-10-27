@@ -392,8 +392,8 @@
       </categories>
       <tags>
         <tag>观察者模式</tag>
-        <tag>策略模式</tag>
         <tag>MVC</tag>
+        <tag>策略模式</tag>
         <tag>组合模式</tag>
       </tags>
   </entry>
@@ -405,8 +405,8 @@
         <category>这个想法不一定对</category>
       </categories>
       <tags>
-        <tag>MVVM</tag>
         <tag>MVC</tag>
+        <tag>MVVM</tag>
         <tag>MVP</tag>
         <tag>MV*</tag>
       </tags>
