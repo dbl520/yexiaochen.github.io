@@ -1,3 +1,4 @@
+https://www.yexiaochen.com/前端笔试之手写代码（2）/
 https://www.yexiaochen.com/读《JavaScript-轻量级函数式编程》/
 https://www.yexiaochen.com/读《乌合之众》/
 https://www.yexiaochen.com/【译】The-story-of-a-V8-performance-cliff-in-React/
@@ -7,4 +8,3 @@ https://www.yexiaochen.com/前端架构碎碎念/
 https://www.yexiaochen.com/《重构》读后感/
 https://www.yexiaochen.com/小程序云开发之始末/
 https://www.yexiaochen.com/Node写爬虫/
-https://www.yexiaochen.com/论学习之道有感/
