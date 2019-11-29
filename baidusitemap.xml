@@ -4,6 +4,32 @@
 
     
   <url>
+    <loc>http://www.yexiaochen.com/%E8%AE%B0%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E7%9A%84%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2019-11-29T14:11:31.958Z</lastmod>
+    <data>
+        <display>
+        <title>记开源项目的二次开发</title>
+        <pubTime>2019-11-16T02:00:10.000Z</pubTime>
+        
+        <tag>开源项目</tag>
+         
+        <tag>二次开发</tag>
+         
+        <tag>git</tag>
+         
+        <tag>分支管理</tag>
+         
+         
+           
+             
+              <breadCrumb title="开发三两事" url="http://www.yexiaochen.com/categories/%E5%BC%80%E5%8F%91%E4%B8%89%E4%B8%A4%E4%BA%8B/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.yexiaochen.com/%E5%BA%8F%E8%A8%80/</loc>
     <lastmod>2019-11-26T14:23:39.809Z</lastmod>
     <data>
@@ -277,32 +303,6 @@
            
              
               <breadCrumb title="浏览器" url="http://www.yexiaochen.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.yexiaochen.com/%E8%AE%B0%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E7%9A%84%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91/</loc>
-    <lastmod>2019-11-24T23:54:11.032Z</lastmod>
-    <data>
-        <display>
-        <title>记开源项目的二次开发</title>
-        <pubTime>2019-11-16T02:00:10.000Z</pubTime>
-        
-        <tag>开源项目</tag>
-         
-        <tag>二次开发</tag>
-         
-        <tag>git</tag>
-         
-        <tag>分支管理</tag>
-         
-         
-           
-             
-              <breadCrumb title="开发三两事" url="http://www.yexiaochen.com/categories/%E5%BC%80%E5%8F%91%E4%B8%89%E4%B8%A4%E4%BA%8B/"/>
           
         </display>
     </data>
