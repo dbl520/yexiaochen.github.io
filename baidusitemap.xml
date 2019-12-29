@@ -4,8 +4,52 @@
 
     
   <url>
+    <loc>http://www.yexiaochen.com/chrome%E4%BD%BF%E7%94%A8%E5%A7%BF%E5%8A%BF%EF%BC%88extensions-flags%EF%BC%89/</loc>
+    <lastmod>2019-12-29T05:21:27.064Z</lastmod>
+    <data>
+        <display>
+        <title>chrome使用姿势（extensions+flags）</title>
+        <pubTime>2019-12-29T04:13:12.000Z</pubTime>
+        
+        <tag>Chrome 拓展插件</tag>
+         
+        <tag>Chrome 实验性功能</tag>
+         
+         
+           
+             
+              <breadCrumb title="善事利器" url="http://www.yexiaochen.com/categories/%E5%96%84%E4%BA%8B%E5%88%A9%E5%99%A8/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.yexiaochen.com/%E3%80%90%E8%AF%91%E3%80%91JavaScript-engine-fundamentals-Shapes-and-Inline-Caches/</loc>
+    <lastmod>2019-12-29T04:41:25.079Z</lastmod>
+    <data>
+        <display>
+        <title>【译】JavaScript engine fundamentals: Shapes and Inline Caches</title>
+        <pubTime>2019-09-28T02:03:15.000Z</pubTime>
+        
+        <tag>JavaScript 引擎</tag>
+         
+        <tag>V8</tag>
+         
+         
+           
+             
+              <breadCrumb title="浏览器" url="http://www.yexiaochen.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.yexiaochen.com/%E9%9A%8F%E6%89%8B%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89/</loc>
-    <lastmod>2019-12-21T03:00:44.454Z</lastmod>
+    <lastmod>2019-12-29T04:02:00.483Z</lastmod>
     <data>
         <display>
         <title>随手记（一）</title>
@@ -119,9 +163,9 @@
         <title>所谓的微前端</title>
         <pubTime>2019-11-17T09:14:50.000Z</pubTime>
         
-        <tag>前端架构</tag>
-         
         <tag>微前端</tag>
+         
+        <tag>前端架构</tag>
          
          
            
@@ -270,28 +314,6 @@
         <display>
         <title>【译】The story of a V8 performance cliff in React</title>
         <pubTime>2019-09-29T13:35:57.000Z</pubTime>
-        
-        <tag>JavaScript 引擎</tag>
-         
-        <tag>V8</tag>
-         
-         
-           
-             
-              <breadCrumb title="浏览器" url="http://www.yexiaochen.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.yexiaochen.com/%E3%80%90%E8%AF%91%E3%80%91JavaScript-engine-fundamentals-Shapes-and-Inline-Caches/</loc>
-    <lastmod>2019-11-26T14:10:00.317Z</lastmod>
-    <data>
-        <display>
-        <title>【译】JavaScript engine fundamentals: Shapes and Inline Caches</title>
-        <pubTime>2019-09-28T02:03:15.000Z</pubTime>
         
         <tag>JavaScript 引擎</tag>
          
@@ -1153,13 +1175,13 @@
         <title>关于MVC模式简单代码实现</title>
         <pubTime>2019-02-06T03:40:56.000Z</pubTime>
         
-        <tag>观察者模式</tag>
-         
         <tag>MVC</tag>
          
         <tag>策略模式</tag>
          
         <tag>组合模式</tag>
+         
+        <tag>观察者模式</tag>
          
          
            

@@ -1,3 +1,4 @@
+http://www.yexiaochen.com/chrome使用姿势（extensions-flags）/
 http://www.yexiaochen.com/架构与边界/
 http://www.yexiaochen.com/所谓的微前端/
 http://www.yexiaochen.com/记开源项目的二次开发/
@@ -7,4 +8,3 @@ http://www.yexiaochen.com/【译】The-story-of-a-V8-performance-cliff-in-React/
 http://www.yexiaochen.com/【译】JavaScript-engine-fundamentals-optimizing-prototypes/
 http://www.yexiaochen.com/【译】JavaScript-engine-fundamentals-Shapes-and-Inline-Caches/
 http://www.yexiaochen.com/前端架构碎碎念/
-http://www.yexiaochen.com/《重构》读后感/
