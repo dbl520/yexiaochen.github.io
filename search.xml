@@ -451,10 +451,10 @@
         <category>设计模式</category>
       </categories>
       <tags>
+        <tag>观察者模式</tag>
         <tag>MVC</tag>
         <tag>策略模式</tag>
         <tag>组合模式</tag>
-        <tag>观察者模式</tag>
       </tags>
   </entry>
   <entry>
